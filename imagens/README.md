@@ -4,4 +4,4 @@
 
 Visite o projeto: <a href="https://wictorluciano.github.io/Calculadora-Futuristica/" target="_blank">Clicando aqui</a> 
 
-<a href="https://wictorluciano.github.io/Calculadora-Futuristica/"><img src="imagens/readme.png" width="250px"></a>
+<a href="https://wictorluciano.github.io/Calculadora-Futuristica/"><img src="readme.png" width="250px"></a>
